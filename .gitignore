@@ -17,6 +17,7 @@ selenium.php
 plugins
 themes
 composer.lock
+storage/*
 
 # for netbeans
 nbproject
