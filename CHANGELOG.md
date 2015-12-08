@@ -1,3 +1,10 @@
+* **Build 31x** (2015-12-xx)
+  - Added a `clickable` option to list columns (see Backend > Lists docs).
+
+* **Build 310** (2015-11-28)
+  - The Relation form widget now supports custom SQL with the `select` options, also `nameFrom` supports taking values from model attributes (see Backend > Forms docs).
+  - Added Refresh buttons to the back-end logging pages.
+
 * **Build 305** (2015-10-17)
   - The Inspector control has been dramatically improved.
 
