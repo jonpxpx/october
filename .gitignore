@@ -16,6 +16,7 @@ sftp-config.json
 selenium.php
 plugins
 themes
+composer.lock
 
 # for netbeans
 nbproject
